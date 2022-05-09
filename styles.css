@@ -1,7 +1,5 @@
 /*
-=============== 
 Fonts
-===============
 */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
@@ -67,7 +65,7 @@ Global Styles
   box-sizing: border-box;
 }
 body {
-  font-family: var(--ff-secondary);
+  font-family: var( --ff-primary);
   background: var(--clr-grey-10);
   color: var(--clr-grey-1);
   line-height: 1.5;
